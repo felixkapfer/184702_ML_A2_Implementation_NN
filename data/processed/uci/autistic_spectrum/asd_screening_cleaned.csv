@@ -1,0 +1,289 @@
+A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,age,gender,ethnicity,jaundice,country_of_res,used_app_before,result,relation,class
+1,1,0,0,1,1,0,1,0,0,6.0,m,Others,no,Jordan,no,5,Parent,0
+1,1,0,0,1,1,0,1,0,0,6.0,m,'Middle Eastern ',no,Jordan,no,5,Parent,0
+1,1,0,0,0,1,1,1,0,0,6.0,m,White-European,no,Jordan,yes,5,Parent,0
+0,1,0,0,1,1,0,0,0,1,5.0,f,White-European,yes,Jordan,no,4,Parent,0
+1,1,1,1,1,1,1,1,1,1,5.0,m,Others,yes,'United States',no,10,Parent,1
+0,0,1,0,1,1,0,1,0,1,4.0,m,White-European,no,Egypt,no,5,Parent,0
+1,0,1,1,1,1,0,1,0,1,5.0,m,White-European,no,'United Kingdom',no,7,Parent,1
+1,1,1,1,1,1,1,1,0,0,5.0,f,'Middle Eastern ',no,Bahrain,no,8,Parent,1
+1,1,1,1,1,1,1,0,0,0,11.0,f,'Middle Eastern ',no,Bahrain,no,7,Parent,1
+0,0,1,1,1,0,1,1,0,0,11.0,f,White-European,no,Austria,no,5,Parent,0
+1,0,0,0,1,1,1,1,1,1,10.0,m,White-European,yes,'United Kingdom',no,7,Self,1
+0,1,0,0,1,0,0,0,0,1,5.0,f,White-European,no,Kuwait,no,3,Parent,0
+0,1,1,1,1,1,1,1,1,1,4.0,m,White-European,yes,'United States',no,9,Parent,1
+1,0,0,0,0,0,1,0,0,0,4.0,f,Black,no,'United Arab Emirates',no,2,Parent,0
+1,1,1,1,1,1,1,1,1,1,6.0,m,White-European,no,Europe,no,10,Parent,1
+1,1,1,1,1,1,1,1,1,1,8.0,m,White-European,no,Malta,no,10,Parent,1
+1,1,1,1,1,1,0,1,1,1,4.0,m,'South Asian',no,Bulgaria,no,9,Parent,1
+0,0,0,0,0,0,1,0,0,0,7.0,m,Others,no,'United States',no,1,Parent,0
+1,0,1,1,1,0,1,1,1,1,11.0,m,White-European,no,'United States',no,8,Parent,1
+1,1,1,1,1,1,0,1,0,1,5.0,m,White-European,no,Egypt,no,8,Parent,1
+1,1,1,1,1,1,1,0,1,0,5.0,m,White-European,yes,'South Africa',no,8,Parent,1
+0,0,1,1,0,1,0,1,1,0,9.0,f,White-European,no,Egypt,no,5,Parent,0
+1,1,0,1,0,0,0,0,0,0,4.0,m,Asian,no,India,no,3,Parent,0
+1,0,1,1,0,1,0,0,1,0,6.0,f,'South Asian',no,India,no,5,Parent,0
+1,0,1,1,1,1,0,1,1,1,11.0,m,White-European,no,Egypt,no,8,Parent,1
+0,0,1,1,1,0,1,1,1,0,6.0,m,White-European,no,'United Kingdom',no,6,Relative,0
+1,0,1,0,1,1,0,0,1,1,6.0,f,'Middle Eastern ',no,Afghanistan,no,6,Self,0
+1,1,1,1,1,1,1,1,1,1,5.0,m,White-European,yes,'United States',yes,10,Parent,1
+0,1,1,0,0,0,1,1,0,1,6.0,m,White-European,no,'United Arab Emirates',no,5,Parent,0
+0,0,1,0,1,0,1,0,0,0,4.0,f,Others,yes,Georgia,no,3,Parent,0
+1,1,1,1,1,1,1,1,1,1,11.0,m,White-European,no,'United Kingdom',no,10,Parent,1
+0,0,1,0,0,1,0,0,1,1,6.0,m,Pasifika,yes,'New Zealand',no,4,Parent,0
+1,0,0,0,1,1,0,1,0,1,5.0,m,'South Asian',yes,India,no,5,'Health care professional',0
+1,0,0,0,1,1,0,0,1,1,6.0,m,'South Asian',yes,India,no,5,Parent,0
+0,1,0,0,0,0,0,0,0,0,7.0,f,'Middle Eastern ',yes,Syria,no,1,Parent,0
+0,1,0,0,1,0,0,1,0,0,4.0,f,White-European,no,Syria,no,3,Parent,0
+1,1,0,0,0,0,0,0,0,0,7.0,m,Asian,no,'New Zealand',no,2,Parent,0
+1,1,1,1,1,1,1,1,1,1,4.0,m,White-European,yes,'United Kingdom',no,10,Parent,1
+0,1,1,1,1,1,1,1,0,1,4.0,m,Asian,no,India,no,8,Parent,1
+0,0,1,1,1,1,0,1,0,1,5.0,m,White-European,yes,Jordan,no,6,Parent,0
+0,1,0,0,0,0,0,0,0,0,4.0,m,'Middle Eastern ',no,Afghanistan,no,1,Parent,0
+1,0,0,0,1,0,1,0,0,1,6.0,f,'Middle Eastern ',no,Jordan,no,4,Parent,0
+1,0,1,1,1,1,0,1,1,1,4.0,f,White-European,no,Jordan,no,8,Parent,1
+0,0,0,1,0,0,1,0,0,0,10.0,m,'Middle Eastern ',no,Jordan,no,2,Parent,0
+0,1,1,0,1,1,0,0,0,1,4.0,f,'Middle Eastern ',yes,Iraq,no,5,Relative,0
+0,1,1,0,1,1,0,0,0,0,4.0,f,'Middle Eastern ',yes,Iraq,no,4,Relative,0
+1,1,1,0,1,0,1,1,0,1,6.0,m,White-European,no,Jordan,no,7,Parent,1
+1,0,1,1,1,1,0,0,1,1,6.0,f,White-European,yes,'New Zealand',no,7,Parent,1
+0,1,0,0,1,0,0,0,0,0,7.0,m,'Middle Eastern ',no,Jordan,no,2,Parent,0
+0,1,0,0,1,0,1,0,0,1,7.0,m,White-European,yes,Jordan,no,4,Parent,0
+0,0,1,0,1,1,1,0,1,1,4.0,m,Asian,no,India,no,6,Parent,0
+1,0,0,1,0,1,0,1,1,1,6.0,m,White-European,no,Jordan,no,6,Parent,0
+1,1,1,1,1,1,1,0,1,1,7.0,m,White-European,yes,'United States',no,9,Parent,1
+1,0,1,1,0,1,0,0,0,1,5.0,m,White-European,no,'United Arab Emirates',no,5,Parent,0
+0,0,1,0,1,0,0,0,0,0,5.0,m,White-European,no,Australia,no,2,Parent,0
+0,0,1,0,0,1,0,0,0,0,6.0,m,White-European,no,'Saudi Arabia',no,2,Parent,0
+1,0,1,1,1,1,1,1,1,1,4.0,f,White-European,no,Georgia,no,9,Parent,1
+1,0,1,1,1,1,1,1,1,0,9.0,f,'Middle Eastern ',no,Armenia,no,8,'Health care professional',1
+1,0,1,1,1,1,0,0,1,1,4.0,m,Hispanic,no,'United States',no,7,Parent,1
+1,0,1,0,1,0,0,0,0,0,4.0,m,Turkish,no,Turkey,no,3,Relative,0
+1,0,1,1,1,1,1,1,1,1,9.0,m,White-European,no,'United States',no,9,Parent,1
+1,1,1,0,1,1,0,0,0,1,4.0,f,White-European,yes,Australia,no,6,Parent,0
+1,1,1,0,1,1,1,1,1,1,9.0,m,Asian,yes,Pakistan,no,9,Parent,1
+1,0,1,1,0,0,0,1,0,1,8.0,m,'Middle Eastern ',no,'United States',no,5,Parent,0
+1,0,0,0,1,0,0,0,0,1,4.0,m,White-European,no,'United Kingdom',no,3,Parent,0
+1,0,0,0,1,0,1,0,0,1,4.0,m,White-European,no,'United Kingdom',no,4,Parent,0
+0,0,1,0,1,1,1,0,1,0,4.0,f,White-European,no,Pakistan,no,5,Parent,0
+1,0,1,1,1,1,1,1,1,1,4.0,m,White-European,no,Canada,no,9,Parent,1
+1,0,1,0,1,0,1,0,0,1,7.0,m,Asian,no,Oman,no,5,Parent,0
+0,1,0,0,1,0,1,0,0,1,7.0,f,White-European,yes,'United Kingdom',no,4,Parent,0
+1,0,1,1,1,1,0,1,0,1,6.0,m,'South Asian',no,India,no,7,Parent,1
+1,0,1,1,1,1,0,1,1,1,5.0,f,'Middle Eastern ',no,Canada,no,8,Parent,1
+1,0,1,1,1,1,0,0,1,1,8.0,f,'Middle Eastern ',no,Canada,no,7,Parent,1
+0,0,0,1,1,1,1,1,1,0,5.0,m,White-European,no,'United Kingdom',no,6,Parent,0
+1,1,1,1,0,1,1,1,1,1,11.0,f,Others,no,Canada,no,9,Parent,1
+1,0,0,0,1,0,1,0,0,1,8.0,m,White-European,yes,'New Zealand',no,4,Parent,0
+1,1,1,1,1,1,1,0,1,1,4.0,m,Latino,no,Brazil,no,9,Parent,1
+0,1,1,1,0,1,0,1,1,0,7.0,m,White-European,yes,'New Zealand',no,6,Parent,0
+1,0,0,1,0,1,0,0,0,0,4.0,m,White-European,no,'New Zealand',no,3,Parent,0
+0,1,1,1,1,1,1,1,1,1,7.0,m,White-European,yes,'New Zealand',no,9,Parent,1
+1,0,1,1,1,1,1,1,0,1,8.0,m,White-European,no,'United States',no,8,Parent,1
+0,1,1,0,1,1,0,0,0,1,5.0,m,Asian,no,'South Korea',no,5,Parent,0
+0,0,1,0,1,1,1,0,1,1,4.0,m,Asian,no,India,no,6,Parent,0
+1,1,1,1,1,1,1,0,1,1,11.0,f,White-European,no,'United Kingdom',no,9,Parent,1
+1,1,1,1,0,0,1,0,1,1,11.0,f,White-European,no,'United Kingdom',no,7,Parent,1
+1,1,1,1,1,1,1,1,1,1,4.0,m,White-European,no,'South Africa',no,10,Parent,1
+1,1,1,1,0,1,0,0,0,0,5.0,m,Latino,no,'Costa Rica',no,5,Parent,0
+0,1,1,1,1,1,1,1,1,1,6.0,m,Hispanic,no,'United States',no,9,Parent,1
+1,0,1,1,1,1,1,0,1,1,4.0,f,White-European,no,Australia,no,8,Parent,1
+1,0,0,1,1,1,1,0,0,0,11.0,f,White-European,yes,'United Kingdom',no,5,Relative,0
+0,0,1,1,1,1,1,1,1,1,5.0,m,Asian,no,India,no,8,Parent,1
+0,0,1,1,1,1,1,1,1,1,5.0,m,Asian,no,India,no,8,Parent,1
+1,1,1,1,1,1,1,1,1,1,6.0,m,Latino,no,'United States',no,10,Parent,1
+1,0,1,0,1,1,1,1,0,1,7.0,m,Hispanic,no,'United States',no,7,Parent,1
+1,1,1,1,1,1,0,1,0,1,11.0,m,White-European,no,Sweden,no,8,Parent,1
+1,1,1,1,1,0,1,0,1,1,4.0,m,White-European,no,Australia,no,8,Parent,1
+1,1,1,0,1,1,1,0,1,1,4.0,m,White-European,no,'United States',no,8,Parent,1
+0,0,1,1,0,0,0,0,0,0,7.0,m,White-European,no,'United States',no,2,Parent,0
+1,1,0,1,0,1,1,0,1,0,11.0,f,White-European,yes,'United Kingdom',no,6,Relative,0
+1,1,1,1,0,1,1,0,0,1,6.0,f,Asian,no,Philippines,no,7,Parent,1
+0,0,0,0,0,0,1,0,1,0,9.0,f,White-European,no,'United Kingdom',no,2,Parent,0
+0,1,0,1,0,1,0,0,1,1,10.0,m,Others,no,'United States',no,5,Relative,0
+0,0,0,0,1,1,1,0,0,1,4.0,m,Asian,no,Malaysia,no,4,Parent,0
+1,1,1,1,1,1,0,1,0,1,4.0,m,Asian,yes,Philippines,no,8,Parent,1
+1,1,1,1,1,1,0,0,1,1,10.0,m,White-European,yes,'United Kingdom',no,8,Parent,1
+1,0,0,0,1,0,0,0,0,1,4.0,f,White-European,yes,'United Kingdom',no,3,Parent,0
+0,1,0,0,0,1,1,1,0,0,11.0,m,Asian,no,Argentina,no,4,Parent,0
+0,0,1,0,1,0,0,0,0,1,7.0,m,Asian,no,Japan,no,3,Parent,0
+0,1,1,1,1,0,1,1,0,1,5.0,m,White-European,no,Syria,no,7,Parent,1
+1,1,0,0,0,0,0,0,0,1,4.0,f,White-European,no,'United States',no,3,Parent,0
+0,0,1,1,1,1,0,1,1,1,8.0,m,White-European,no,'United States',no,7,Parent,1
+1,1,1,1,1,1,1,1,1,0,4.0,m,White-European,no,Australia,no,9,Parent,1
+1,0,1,0,1,1,0,1,0,1,4.0,m,'South Asian',no,India,no,6,Parent,0
+1,1,1,1,1,1,1,1,1,1,11.0,m,Asian,yes,India,no,10,Relative,1
+1,1,1,1,1,1,1,0,1,1,10.0,f,Asian,no,'United States',no,9,Parent,1
+1,1,0,1,0,1,0,0,1,1,6.0,f,White-European,no,'United States',no,6,Parent,0
+0,0,0,1,1,1,1,1,1,0,4.0,m,Asian,no,Bangladesh,no,6,Relative,0
+0,1,1,0,1,0,0,0,0,1,4.0,m,Asian,no,Bangladesh,no,4,Parent,0
+0,1,1,1,0,1,0,1,1,1,4.0,m,Asian,no,Bangladesh,no,7,Relative,1
+0,0,1,1,0,0,1,1,1,0,10.0,m,White-European,no,'United States',no,5,Parent,0
+1,1,1,1,1,1,1,1,1,1,7.0,m,White-European,no,'United Kingdom',no,10,Relative,1
+0,1,1,0,0,1,1,1,0,0,4.0,m,White-European,yes,Qatar,no,5,Parent,0
+1,1,1,0,0,1,1,1,1,1,6.0,f,White-European,yes,Ireland,no,8,Parent,1
+0,1,1,0,1,1,1,1,1,1,5.0,m,Asian,no,India,no,8,Parent,1
+0,0,1,0,1,1,1,1,1,1,4.0,f,Asian,yes,'United Kingdom',no,7,Parent,1
+1,0,1,0,1,1,1,1,0,0,9.0,m,Asian,no,India,yes,6,Parent,0
+1,0,1,1,0,1,1,1,0,1,4.0,f,White-European,yes,'United States',no,7,Parent,1
+1,1,1,1,1,1,1,0,1,1,10.0,m,White-European,no,'New Zealand',yes,9,Parent,1
+1,1,0,0,0,0,1,0,0,1,9.0,m,White-European,no,'New Zealand',no,4,Parent,0
+0,1,1,1,1,1,0,0,0,1,5.0,m,White-European,yes,'United Kingdom',no,6,Parent,0
+1,1,1,0,0,0,0,0,1,1,4.0,f,Black,no,Canada,no,5,Parent,0
+1,1,1,1,1,1,0,1,1,1,4.0,m,White-European,no,'United Kingdom',no,9,Parent,1
+0,1,1,1,1,0,0,0,1,0,6.0,m,White-European,no,Romania,no,5,Parent,0
+1,1,1,0,1,0,1,0,1,1,4.0,f,White-European,yes,'United Kingdom',no,7,Parent,1
+0,0,0,0,0,0,0,0,0,0,5.0,f,Hispanic,no,'United States',no,0,Parent,0
+1,1,1,1,1,1,1,1,1,1,9.0,m,White-European,yes,'United Kingdom',no,10,Parent,1
+1,0,1,1,1,0,1,1,1,1,7.0,f,White-European,no,Australia,no,8,Parent,1
+0,1,1,0,0,1,1,1,0,1,10.0,f,White-European,no,Netherlands,no,6,Parent,0
+1,0,1,1,1,1,0,1,0,1,4.0,m,'South Asian',no,India,no,7,Parent,1
+1,0,1,1,0,1,1,1,0,1,4.0,m,Asian,no,India,no,7,Relative,1
+1,1,0,1,1,1,1,0,0,0,7.0,f,White-European,no,'United Kingdom',no,6,Parent,0
+1,1,1,1,1,1,1,0,1,1,4.0,m,Black,yes,'United States',no,9,Parent,1
+0,1,1,0,1,0,1,0,0,1,4.0,m,White-European,yes,Lebanon,no,5,Parent,0
+1,1,1,1,1,1,1,0,1,1,10.0,m,White-European,no,Germany,no,9,'Health care professional',1
+0,0,1,0,1,1,0,1,1,1,4.0,m,Asian,no,India,no,6,Parent,0
+0,0,0,0,1,1,1,0,0,0,4.0,m,White-European,no,Latvia,yes,3,Parent,0
+1,1,1,1,1,1,0,0,0,1,4.0,m,'South Asian',no,'Saudi Arabia',no,7,Parent,1
+1,0,1,0,1,1,0,1,1,1,4.0,m,Black,no,'United States',no,7,Parent,1
+0,1,1,0,0,0,1,1,1,1,7.0,m,White-European,yes,'United States',no,6,Parent,0
+1,1,1,1,1,1,1,0,1,1,4.0,m,White-European,no,'United States',no,9,Parent,1
+1,1,1,1,1,0,1,0,1,1,5.0,f,White-European,no,'New Zealand',no,8,Parent,1
+1,1,1,1,1,1,1,1,0,1,6.0,m,Others,yes,'United Kingdom',no,9,Parent,1
+0,1,0,0,0,1,1,1,1,1,6.0,f,Asian,no,'United Kingdom',no,6,Parent,0
+1,1,0,0,1,1,1,1,1,1,6.0,f,White-European,no,'United Kingdom',no,8,Parent,1
+0,1,0,1,1,1,1,0,1,1,9.0,m,White-European,no,'United Kingdom',no,7,Parent,1
+1,1,1,1,1,1,1,1,1,1,8.0,m,White-European,no,'United Kingdom',no,10,Parent,1
+1,0,1,1,1,1,0,1,0,1,11.0,m,White-European,no,Jordan,no,7,Parent,1
+1,0,0,0,1,1,1,1,1,1,9.0,m,White-European,no,Australia,no,7,Parent,1
+0,1,0,0,0,1,0,0,0,1,9.0,f,White-European,no,'United Kingdom',no,3,Parent,0
+1,0,0,1,1,1,1,0,1,1,7.0,m,Black,no,'United States',no,7,Parent,1
+0,0,1,0,0,1,1,0,0,1,4.0,m,Asian,no,India,no,4,Relative,0
+1,0,0,0,1,1,1,0,0,1,10.0,f,Others,no,Australia,no,5,Self,0
+0,0,0,0,1,0,1,1,0,1,8.0,m,'Middle Eastern ',no,'United Arab Emirates',no,4,Parent,0
+1,0,1,1,1,1,1,1,0,1,6.0,m,Others,no,Australia,no,8,Parent,1
+0,1,1,1,1,1,0,1,1,1,8.0,m,White-European,yes,Russia,no,8,Parent,1
+1,0,1,1,1,1,1,1,1,1,11.0,f,White-European,no,Austria,no,9,Parent,1
+1,1,1,0,1,0,1,0,0,0,5.0,f,White-European,no,Italy,no,5,Parent,0
+0,0,1,0,1,0,1,0,0,1,4.0,f,White-European,no,Australia,no,4,Relative,0
+1,1,1,1,1,1,1,1,1,1,11.0,m,White-European,no,Australia,no,10,Parent,1
+0,0,1,1,1,1,0,0,0,1,11.0,f,Others,yes,'United Kingdom',no,5,Self,0
+0,1,1,0,0,1,1,1,0,0,4.0,m,White-European,yes,Qatar,yes,5,Parent,0
+1,0,1,0,1,1,0,0,0,0,8.0,m,White-European,no,'United Kingdom',no,4,Parent,0
+1,0,1,1,1,0,0,0,0,0,8.0,m,White-European,no,'United Kingdom',yes,4,Parent,0
+1,1,1,1,1,1,1,1,1,1,9.0,m,White-European,no,'United Kingdom',no,10,Parent,1
+0,0,0,1,0,1,0,0,1,1,4.0,m,Asian,no,Bangladesh,no,4,Parent,0
+0,0,1,0,1,1,1,1,1,1,4.0,m,Asian,no,Bangladesh,no,7,Parent,1
+1,1,1,1,1,1,0,0,1,1,4.0,f,White-European,yes,China,no,8,Parent,1
+0,1,1,0,1,0,1,0,0,0,4.0,f,White-European,no,Pakistan,no,4,Parent,0
+1,0,0,1,1,1,1,1,1,1,11.0,m,Hispanic,no,'United States',yes,8,Self,1
+0,1,1,1,0,1,0,0,0,1,10.0,f,Asian,no,Australia,no,5,Parent,0
+1,0,1,1,1,1,0,1,0,1,11.0,m,Asian,no,India,no,7,Parent,1
+1,0,1,0,1,0,1,0,1,1,4.0,m,Black,yes,'United Kingdom',no,6,Parent,0
+1,1,1,0,1,0,1,1,1,1,4.0,m,White-European,yes,'United States',no,8,Parent,1
+1,1,1,1,1,1,1,1,1,1,6.0,f,Black,no,Nigeria,no,10,Parent,1
+0,0,1,1,1,1,1,1,0,0,8.0,m,White-European,no,'United Kingdom',no,6,Parent,0
+1,1,1,1,1,0,1,1,1,1,4.0,f,White-European,no,Australia,no,9,Parent,1
+1,1,1,0,1,1,0,1,0,1,4.0,m,White-European,no,Lebanon,no,7,Parent,1
+1,1,0,1,1,1,1,0,0,1,8.0,m,White-European,no,Armenia,no,7,Parent,1
+1,1,1,0,1,1,0,0,1,1,11.0,m,Hispanic,no,'United States',no,7,Relative,1
+1,0,1,0,1,1,1,0,1,0,4.0,f,White-European,yes,'United Kingdom',no,6,Parent,0
+1,1,0,0,1,1,1,0,0,0,5.0,m,White-European,no,Iraq,no,5,Parent,0
+1,1,1,0,0,0,0,0,0,0,4.0,m,White-European,no,'U.S. Outlying Islands',no,3,Parent,0
+1,1,1,1,1,1,0,0,1,1,8.0,m,Black,no,Australia,no,8,Parent,1
+0,0,1,0,1,1,1,1,1,1,4.0,m,Pasifika,no,'New Zealand',no,7,'Health care professional',1
+0,1,1,1,1,1,1,1,1,1,4.0,m,'South Asian',no,India,no,9,Parent,1
+1,0,0,0,1,0,1,0,0,1,9.0,m,White-European,no,Australia,no,4,Parent,0
+1,0,0,0,1,0,1,0,0,1,9.0,m,White-European,yes,Australia,no,4,Parent,0
+1,1,1,1,1,1,1,0,1,0,4.0,f,White-European,no,'United Kingdom',no,8,Parent,1
+0,0,1,0,1,0,1,0,0,1,5.0,m,'South Asian',no,India,no,4,Relative,0
+1,1,1,1,1,1,0,0,0,1,7.0,f,Asian,yes,India,no,7,Parent,1
+1,0,1,1,1,0,1,1,1,1,4.0,f,White-European,yes,'United Kingdom',no,8,Parent,1
+1,1,1,1,0,1,0,0,0,0,5.0,f,White-European,no,'United Kingdom',no,5,Parent,0
+1,1,1,1,1,1,0,1,1,0,6.0,m,Asian,no,Nepal,no,8,'Health care professional',1
+1,1,1,1,0,1,1,1,1,1,8.0,m,White-European,no,'United Kingdom',no,9,Parent,1
+1,0,0,0,1,0,0,0,0,1,4.0,m,Asian,no,Bangladesh,no,3,Parent,0
+1,0,1,1,1,1,0,1,0,0,5.0,m,Latino,no,Mexico,no,6,Parent,0
+1,0,1,1,1,1,0,1,0,1,5.0,m,Latino,no,Mexico,no,7,Parent,1
+1,0,1,0,1,0,1,0,1,1,6.0,m,White-European,yes,'United States',no,6,Parent,0
+0,1,1,0,1,1,0,0,0,1,4.0,m,White-European,yes,Malaysia,no,5,Parent,0
+0,0,1,0,1,1,1,0,1,1,8.0,m,White-European,no,'United Kingdom',no,6,Parent,0
+1,0,1,1,0,1,0,1,1,0,5.0,m,'South Asian',no,India,no,6,Parent,0
+1,1,1,1,1,1,1,1,1,1,4.0,f,Asian,no,'United States',no,10,Parent,1
+1,0,1,1,1,1,1,1,1,0,6.0,m,White-European,no,Australia,no,8,Parent,1
+0,0,0,0,0,0,0,0,0,1,11.0,m,Turkish,no,Turkey,no,1,Parent,0
+0,0,1,0,0,0,1,0,1,0,6.0,m,Others,no,'United Kingdom',no,3,Parent,0
+1,0,1,1,1,1,1,1,1,1,4.0,f,Hispanic,no,'United States',no,9,Parent,1
+1,1,1,1,1,1,1,1,1,1,8.0,m,White-European,no,'United States',no,10,Parent,1
+1,1,1,1,1,1,1,0,0,1,4.0,m,White-European,no,'United States',no,8,Parent,1
+1,1,1,1,1,0,1,1,0,0,4.0,m,White-European,no,'United States',no,7,Parent,1
+1,1,1,1,1,1,0,0,1,1,6.0,m,White-European,no,'United States',no,8,Parent,1
+1,0,1,1,1,0,0,0,0,0,8.0,m,White-European,yes,Canada,no,4,'Health care professional',0
+1,1,1,1,1,1,1,1,1,1,9.0,m,Black,yes,'United Kingdom',no,10,Parent,1
+0,0,0,0,1,1,0,1,0,1,8.0,f,'South Asian',no,India,no,4,Parent,0
+0,0,1,0,1,1,1,1,1,1,5.0,m,'South Asian',no,India,no,7,Parent,1
+1,0,0,0,1,0,1,1,0,0,5.0,m,'Middle Eastern ',no,Jordan,no,4,'Health care professional',0
+1,1,1,1,0,1,0,1,1,1,4.0,m,Asian,yes,'Isle of Man',no,8,'Health care professional',1
+1,0,0,1,1,1,1,1,1,1,10.0,m,White-European,no,'United States',no,8,Parent,1
+0,1,1,0,0,1,1,0,0,1,4.0,m,White-European,yes,Libya,no,5,Parent,0
+0,1,1,1,1,1,1,0,0,1,4.0,m,White-European,yes,Libya,yes,7,Parent,1
+0,1,1,1,1,1,0,1,1,1,5.0,m,White-European,no,Russia,no,8,Parent,1
+0,1,1,0,1,1,1,0,0,0,4.0,m,Others,yes,Libya,no,5,Parent,0
+0,0,1,1,1,1,0,1,0,1,5.0,m,White-European,no,Russia,no,6,Parent,0
+1,1,1,1,1,1,1,0,1,1,7.0,f,Asian,no,Philippines,no,9,Parent,1
+0,1,1,0,0,1,0,0,1,1,11.0,f,Latino,yes,Philippines,no,5,'Health care professional',0
+1,0,0,1,0,1,0,1,1,0,11.0,m,Asian,no,India,no,5,Parent,0
+1,0,0,1,1,1,0,0,0,1,11.0,f,White-European,no,Australia,no,5,Parent,0
+1,1,1,1,0,0,1,0,1,0,9.0,m,'South Asian',no,'New Zealand',no,6,Parent,0
+1,0,1,0,1,1,1,0,0,1,6.0,m,'South Asian',yes,India,no,6,Parent,0
+0,1,0,0,0,0,1,0,0,1,6.0,m,White-European,yes,'Saudi Arabia',no,3,Parent,0
+1,1,0,0,0,0,1,0,0,0,9.0,f,White-European,yes,'Saudi Arabia',no,3,Parent,0
+0,1,1,0,1,1,0,1,0,1,7.0,m,White-European,yes,Jordan,no,6,Parent,0
+1,1,1,0,0,1,0,1,0,1,5.0,m,'Middle Eastern ',no,Jordan,no,6,Parent,0
+1,1,1,0,1,0,0,0,0,0,5.0,m,'Middle Eastern ',yes,'United Arab Emirates',no,4,Parent,0
+0,0,0,0,0,0,1,0,0,0,10.0,m,'Middle Eastern ',no,'United Arab Emirates',no,1,Parent,0
+0,0,1,0,0,0,1,0,0,1,7.0,m,'Middle Eastern ',no,Jordan,no,3,Parent,0
+0,1,0,1,1,0,1,1,0,1,9.0,m,White-European,yes,Egypt,no,6,Parent,0
+0,1,0,1,1,1,1,1,0,1,7.0,m,'Middle Eastern ',yes,Egypt,no,7,Parent,1
+0,1,1,1,1,1,1,1,0,1,7.0,m,White-European,yes,Egypt,no,8,Parent,1
+1,0,1,0,1,1,1,1,0,1,7.0,m,'Middle Eastern ',yes,Jordan,no,7,Parent,1
+1,0,1,1,1,1,1,1,0,1,9.0,f,'Middle Eastern ',no,Egypt,no,8,Parent,1
+1,1,1,0,0,1,0,0,0,1,5.0,m,'Middle Eastern ',yes,'United Arab Emirates',no,5,Parent,0
+1,1,1,0,1,1,0,0,0,0,4.0,m,'South Asian',no,India,no,5,Parent,0
+0,0,0,1,1,1,0,0,0,1,5.0,m,Asian,no,India,no,4,Parent,0
+1,1,1,1,1,1,1,1,1,1,4.0,f,'South Asian',no,Armenia,no,10,'Health care professional',1
+1,0,0,0,1,0,1,0,0,1,5.0,m,'South Asian',no,India,no,4,Parent,0
+1,0,1,1,1,1,1,1,0,1,5.0,m,Black,no,'United States',no,8,Parent,1
+1,1,1,1,0,1,0,0,0,1,4.0,m,White-European,no,Italy,no,6,Parent,0
+1,1,0,0,1,0,1,1,0,0,6.0,m,Asian,no,India,no,5,Parent,0
+1,1,1,1,1,1,1,1,1,1,6.0,f,Black,no,Canada,no,10,Parent,1
+0,1,1,0,0,1,1,0,1,1,5.0,m,Asian,no,India,yes,6,Relative,0
+1,0,1,1,1,1,1,0,1,1,11.0,m,White-European,no,'United Kingdom',no,8,Parent,1
+1,1,1,1,0,1,0,1,1,1,10.0,m,Black,yes,India,no,8,Parent,1
+1,1,0,0,1,1,0,0,0,1,4.0,m,'South Asian',no,India,no,5,Parent,0
+1,0,1,1,1,1,1,1,1,1,5.0,m,Others,no,'United Kingdom',no,9,Parent,1
+1,0,1,0,1,1,1,0,1,1,10.0,m,White-European,yes,Pakistan,no,7,Parent,1
+1,0,1,0,0,0,1,1,0,0,9.0,m,'Middle Eastern ',yes,'New Zealand',no,4,Parent,0
+0,1,1,1,1,1,0,1,0,1,4.0,m,Asian,no,India,no,7,Parent,1
+1,0,1,0,0,0,0,0,1,0,4.0,f,White-European,no,'United Kingdom',no,3,Parent,0
+0,0,1,0,0,0,1,0,1,0,5.0,m,Black,no,Ghana,no,3,Parent,0
+1,1,1,1,1,0,1,1,1,1,8.0,m,White-European,no,Australia,no,9,Parent,1
+1,1,1,1,1,1,1,0,1,1,8.0,m,White-European,yes,'United States',no,9,Parent,1
+1,0,1,1,0,0,0,0,1,0,6.0,m,Asian,no,India,no,4,'Health care professional',0
+0,0,1,0,1,1,1,1,0,1,11.0,m,Asian,no,India,no,6,Parent,0
+1,1,1,0,1,1,0,0,1,1,10.0,f,Asian,no,India,no,7,Parent,1
+1,0,0,0,1,0,0,1,0,1,6.0,f,White-European,no,'United Kingdom',no,4,Parent,0
+1,1,1,1,1,1,1,1,1,0,6.0,m,Asian,no,India,no,9,Parent,1
+0,0,1,0,0,0,0,0,0,1,4.0,m,Black,no,India,no,2,Parent,0
+0,1,1,1,1,1,0,0,0,1,4.0,m,White-European,no,Australia,no,6,Parent,0
+0,1,1,0,0,1,0,1,1,1,4.0,f,White-European,yes,'United Kingdom',no,6,Parent,0
+0,0,0,0,1,1,1,0,1,0,5.0,m,Others,no,'United States',no,4,Parent,0
+1,0,1,0,1,1,1,0,0,1,10.0,f,White-European,no,Australia,no,6,'Health care professional',0
+0,1,0,1,1,1,1,1,1,1,10.0,f,White-European,no,Australia,no,8,'Health care professional',1
+0,1,1,1,1,1,1,1,1,1,5.0,f,Latino,yes,Bhutan,no,9,Parent,1
+1,1,1,1,1,1,1,1,1,1,7.0,f,White-European,yes,'United Kingdom',no,10,Parent,1
+1,0,0,0,1,0,1,0,0,1,7.0,f,White-European,yes,Australia,no,4,Parent,0
+1,0,1,1,1,1,1,0,0,1,4.0,m,Latino,no,Brazil,no,7,Parent,1
+1,1,1,0,1,1,1,1,1,1,4.0,m,'South Asian',no,India,no,9,Parent,1
+0,0,1,0,1,0,1,0,0,0,4.0,f,'South Asian',no,India,no,3,Parent,0
