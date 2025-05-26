@@ -1,5 +1,8 @@
+import time
 import pandas as pd
 import numpy as np
+
+from datetime import datetime
 
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 
@@ -36,3 +39,18 @@ def preprocess_data(df, label_col):
     
     print(f"Preprocessing complete: {X.shape[0]} samples, {X.shape[1]} features, {len(le.classes_)} classes.")
     return X, y
+
+
+def measure_duration(func, *args, **kwargs):
+    """
+    Runs func(*args, **kwargs), returns (result, start, end, duration).
+    Prints start time, end time and duration.
+    """
+    start = datetime.now()
+    result = func(*args, **kwargs)
+    end = datetime.now()
+    duration = end - start
+    print(f"{func.__name__} start: {start}")
+    print(f"{func.__name__}   end: {end}")
+    print(f"{func.__name__} duration: {duration}")
+    return result, start, end, duration
